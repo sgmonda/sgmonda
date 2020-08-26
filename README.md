@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I promise to find interesting things to say here. Just wait a bit.
+
 <!--
 **sgmonda/sgmonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
